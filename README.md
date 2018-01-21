@@ -1,5 +1,5 @@
-# unit-testing-swift
-iOS Unit Testing scratch book. Snippets, examples + theory. 
+# Unit Testing in Swift <br/>
+Collection of awesome blog articles, books, talks, podcasts, tools/frameworks and examples. <br/>
 
 ### 📺 Talks: <br/>
 [Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) - A definitive guide to understanding how you can test a unit of code. <br/>
