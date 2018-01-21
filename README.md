@@ -7,24 +7,29 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [WWDC 2017 - What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409)<br/>
 [WWDC 2016 - Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409) - An advanced class in Testing and Xcode Server. <br/>
 [WWDC 2015 - UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406) - A talk on crafting and maintaining UI tests. <br/>
-[Realm Academy - TDD For Masses](https://academy.realm.io/posts/cmdu-jorge-ortiz-tdd4masses/)<br/>
-[Realm Academy - Unit Testing in Swift 2](https://academy.realm.io/posts/jorge-ortiz-unit-testing-swift-2/)<br/>
-[Realm Academy - Testing an Untested App/](https://academy.realm.io/posts/cmdu-michael-may-testing-untested-app/)<br/>
-[Realm Academy - Testing Without xCode](https://academy.realm.io/posts/cmdu-fuller-testing-without-xcode/)<br/>
-[Realm Academy - Real World Mocking Swift](https://academy.realm.io/posts/tryswift-veronica-ray-real-world-mocking-swift/)<br/>
-[Realm Academy - Testing Realm Apps](https://academy.realm.io/posts/tutorial-testing-realm-apps/)<br/>
-[Realm Academy - Property-Based Testing with SwiftCheck](https://academy.realm.io/posts/tryswift-tj-usiyan-property-based-testing-swiftcheck/)<br/>
-[Realm Academy - Stylish Developers Guide to Unit Testing in Swift](https://academy.realm.io/posts/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/)<br/>
-[Realm Academy - Testing in Swift Protocols and ViewModels](https://academy.realm.io/posts/testing-in-swift-protocols-and-view-models/)<br/>
-[Realm Academy - Testing in Swift](https://academy.realm.io/posts/testing-in-swift/) <br/>
-[Cocoaheads Dusseldorf - Test Driven iOS Development With Swift](https://www.youtube.com/watch?v=GLBToigJ-3M) <br/>
+[Realm Academy. Jorge Ortiz - TDD For Masses](https://academy.realm.io/posts/cmdu-jorge-ortiz-tdd4masses/)<br/>
+[Realm Academy. Jorge Ortiz - Unit Testing in Swift 2](https://academy.realm.io/posts/jorge-ortiz-unit-testing-swift-2/)<br/>
+[Realm Academy. Michael May - Testing an Untested App/](https://academy.realm.io/posts/cmdu-michael-may-testing-untested-app/)<br/>
+[Realm Academy. Kyle Fuller - Testing Without xCode](https://academy.realm.io/posts/cmdu-fuller-testing-without-xcode/)<br/>
+[Realm Academy. Veronica Ray - Real World Mocking Swift](https://academy.realm.io/posts/tryswift-veronica-ray-real-world-mocking-swift/)<br/>
+[Realm Academy. Giovanni Lodi - Testing Realm Apps](https://academy.realm.io/posts/tutorial-testing-realm-apps/)<br/>
+[Realm Academy. TJ Usiyan - Property-Based Testing with SwiftCheck](https://academy.realm.io/posts/tryswift-tj-usiyan-property-based-testing-swiftcheck/)<br/>
+[Realm Academy. Jaim Zuber - Stylish Developers Guide to Unit Testing in Swift](https://academy.realm.io/posts/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/)<br/>
+[Realm Academy. Ayaka Nonaka - Testing in Swift Protocols and ViewModels](https://academy.realm.io/posts/testing-in-swift-protocols-and-view-models/)<br/>
+[Realm Academy. Jeff Hui - Testing in Swift](https://academy.realm.io/posts/testing-in-swift/) <br/>
+[NSSpain 2017. Dave Schukin - Why You Shouldn’t Write Tests (Yes, We’re Going There)](https://vimeo.com/235002959) <br/>
+[CocoaHeads Dusseldorf. Dominik Hauser - Test Driven iOS Development With Swift](https://www.youtube.com/watch?v=GLBToigJ-3M) <br/>
+[CocoaHeads Kyiv. John Sundell - Writing Swift Code with Great Testability](https://www.youtube.com/watch?v=HHEp4mcLXfk)<br/>
+[CocoaHeads Moscow. Vadim Drobinin - Testing UI in xCode (RU)](https://www.youtube.com/watch?v=XmJl_0b1xbY)<br/>
+[CocoaHeads Moscow. Igor Vasilenko - TDD Patterns and why Do We Need To Know About Them (RU)](https://www.youtube.com/watch?v=ZyTJn2ne4Gg)<br/>
+[Rambler&Co. Andrey Ryazanov - Test-Driven Development in iOS (RU)](https://www.youtube.com/watch?v=v2AlaKD9TPg&t=12s) <br/>
 
 ### 📙 Books: <br/>
 [Kent Beck - TDD](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)<br/>
 [Mark Seemann - Dependency Injection .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/ref=sr_1_3?s=books&ie=UTF8&qid=1516526385&sr=1-3&keywords=dependency+injection+in+.net)<br/>
 [Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)<br/>
 [Orta - Pragmatic iOS Unit Testing](https://www.gitbook.com/book/orta/pragmatic-ios-testing/details)<br/>
-[Dr. Dominik Hauser - TDD in Swift 4](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)<br/>
+[Dominik Hauser - TDD in Swift 4](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)<br/>
 [Graham Lee - Test-Driven iOS Development](https://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183)
 
 ### 📻 Podcasts: <br/>
@@ -60,8 +65,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Swift by Sundell - Getting Started with xCode UI Testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)<br/>
 [Swift by Sundell - Avoiding Force Unwrapping in Swift Unit Tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)<br/>
 
-### 📦 Tools/Frameworks:<br/>
+### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
 [Nimble](https://github.com/Quick/Nimble) - a framework for expressing the expected outcomes of Swift or Objective-C expressions. <br/>
 [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - a library designed to stub your network requests very easily. <br/>
-[Awesome-Swift (Curated List): Testing](https://github.com/matteocrippa/awesome-swift#testing) - A great list of testing frameworks/tools in Swift. <br/>
+[Awesome Swift Testing](https://github.com/matteocrippa/awesome-swift#testing) - Curated list of testing tools/frameworks.<br/>
