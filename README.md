@@ -14,7 +14,7 @@ Books: <br/>
 [Dr. Dominik Hauser - TDD in Swift 4](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)<br/>
 
 Resources: <br/>
-[Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/04-writing_tests.html)<br/>
+[Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
 [objc.io - Testing Issue](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 
