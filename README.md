@@ -18,15 +18,16 @@ iOS Unit Testing scratch book. Snippets, examples + theory.
 ### 📻 Podcasts: <br/>
 [FatalError - Getting Started with Unit Testing](https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing)<br/>
 [FatalError - Testing Your Network Layer](https://fatalerror.fm/episodes/2017/2/13/17-testing-your-network-layer)<br/>
-[Test and Code - TDD and Test First](http://testandcode.com/34)<br/>
-[RayWenderlich - Unit Testing with Ellen Shapiro](https://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10)<br/>
+[Swift Unwrapped - Testing Swift](https://spec.fm/podcasts/swift-unwrapped/70319)<br/>
 [Podlodka podcast (RU) - TDD](https://soundcloud.com/podlodka/podlodka-11-tdd)<br/>
 [Podlodka podcast (RU) - Mutational Testing](https://soundcloud.com/podlodka/podlodka-4-mutatsionnoe-testirovanie)<br/>
+[RayWenderlich - Unit Testing with Ellen Shapiro](https://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10)<br/>
 
 ### 💡Blogs and Docs: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
 [objc.io - Testing Issue](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
+[Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) - an old but great article on unit testing.<br/>
 
 ### 📦 Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
