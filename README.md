@@ -17,7 +17,6 @@ Resources: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/04-writing_tests.html)<br/>
 [objc.io - Testing Issue](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
-[iosunittesting.com](http://iosunittesting.com)<br/>
 
 Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick)<br/>
