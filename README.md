@@ -42,7 +42,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Inside iOS Dev - Testing in Object-Oriented Applications](http://insideiosdev.com/6e60aca1)<br/>
 [Inside iOS Dev - Introduction to Dependency Injection](http://insideiosdev.com/4d78d46b)<br/>
 
-### 💡Blogs and Docs: <br/>
+### 💡 Docs, Blogs and Tutorials: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
 [Quality Coding by John Reid - How to Make Specialized Test Assertions in Swift](https://qualitycoding.org/swift-test-assertions/)<br/>
 [Quality Coding by John Reid - I’m Pretty Sure Most of Us Are Wrong about XCTestCase tearDown...](https://qualitycoding.org/teardown/)<br/>
@@ -64,6 +64,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Swift by Sundell - Reducing Flakiness in Swift Tests](https://www.swiftbysundell.com/posts/reducing-flakiness-in-swift-tests)<br/>
 [Swift by Sundell - Getting Started with xCode UI Testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)<br/>
 [Swift by Sundell - Avoiding Force Unwrapping in Swift Unit Tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)<br/>
+[AppCoda - Automated UI Tests](https://www.appcoda.com/automated-ui-test/)<br/>
+[AppCoda - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
