@@ -54,6 +54,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Quality Coding by John Reid - Partial Mock: Have You Wished You Could Fake a Return Value in Swift?](https://qualitycoding.org/swift-partial-mock/)<br/>
 [Quality Coding by John Reid - Swift Mock Objects: How to Avoid Fragile Tests](https://qualitycoding.org/try-swift-mock-objects/)<br/>
 [Quality Coding by John Reid - Mocking Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/)<br/>
+[Quality Coding by John Reid - Swift Unit Testing Template](https://qualitycoding.org/swift-unit-testing-template/)<br/>
+[RayWanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
 [objc.io - Issue #15: Testing](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 [Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) - an old but great article on unit testing.<br/>
