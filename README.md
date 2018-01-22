@@ -28,7 +28,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 
 [Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)<br/>
 [Orta - Pragmatic iOS Unit Testing](https://www.gitbook.com/book/orta/pragmatic-ios-testing/details)<br/>
-[Kent Beck - Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)<br/>
+[Kent Beck - Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)<br/>
 [Dominik Hauser - TDD in Swift 4](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)<br/>
 [Graham Lee - Test-Driven iOS Development](https://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183)<br/>
 [Steve Freeman - Growing Object-Oriented Software, Guided by Tests](https://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=growing+object-oriented+software+guided+by+tests)<br/>
@@ -66,7 +66,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Swift by Sundell - Reducing Flakiness in Swift Tests](https://www.swiftbysundell.com/posts/reducing-flakiness-in-swift-tests)<br/>
 [Swift by Sundell - Getting Started with xCode UI Testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)<br/>
 [Swift by Sundell - Avoiding Force Unwrapping in Swift Unit Tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)<br/>
-[Ron Lisle's iOS Unit Testing blog](http://iosunittesting.com)<br/>
+[iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
 [AppCoda - Automated UI Tests](https://www.appcoda.com/automated-ui-test/)<br/>
 [AppCoda - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
 
