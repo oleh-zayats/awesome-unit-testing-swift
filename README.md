@@ -52,8 +52,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Quality Coding by John Reid - How Does Swift Support Stubbing and Mocking?](https://qualitycoding.org/swift-test-double/)<br/>
 [Quality Coding by John Reid - How to Design Swift Mock Objects](https://qualitycoding.org/swift-mock-objects/)<br/>
 [Quality Coding by John Reid - Partial Mock: Have You Wished You Could Fake a Return Value in Swift?](https://qualitycoding.org/swift-partial-mock/)<br/>
-[John Reid - Swift Mock Objects: How to Avoid Fragile Tests](https://qualitycoding.org/try-swift-mock-objects/)<br/>
-[John Reid - Mocking Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/)<br/>
+[Quality Coding by John Reid - Swift Mock Objects: How to Avoid Fragile Tests](https://qualitycoding.org/try-swift-mock-objects/)<br/>
+[Quality Coding by John Reid - Mocking Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/)<br/>
 [objc.io - Issue #15: Testing](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 [Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) - an old but great article on unit testing.<br/>
@@ -66,6 +66,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Swift by Sundell - Reducing Flakiness in Swift Tests](https://www.swiftbysundell.com/posts/reducing-flakiness-in-swift-tests)<br/>
 [Swift by Sundell - Getting Started with xCode UI Testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)<br/>
 [Swift by Sundell - Avoiding Force Unwrapping in Swift Unit Tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)<br/>
+[Ron Lisle's iOS Unit Testing blog](http://iosunittesting.com)<br/>
 [AppCoda - Automated UI Tests](https://www.appcoda.com/automated-ui-test/)<br/>
 [AppCoda - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
 
