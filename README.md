@@ -69,7 +69,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
 [Nimble](https://github.com/Quick/Nimble) - a framework for expressing the expected outcomes of Swift or Objective-C expressions. <br/>
 [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - a library designed to stub your network requests very easily. <br/>
-[iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case)<br/>
+[iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - snapshot view unit tests for iOS. <br/> 
 ##### Curated Lists
 [Awesome-iOS Testing](https://github.com/vsouza/awesome-ios#testing) - iOS testing tools/frameworks.<br/>
 [Awesome-Swift Testing](https://github.com/matteocrippa/awesome-swift#testing) - Swift testing tools/frameworks.<br/>
