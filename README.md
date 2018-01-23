@@ -33,6 +33,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Graham Lee - Test-Driven iOS Development](https://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183)<br/>
 [Steve Freeman - Growing Object-Oriented Software, Guided by Tests](https://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=growing+object-oriented+software+guided+by+tests)<br/>
 [Mark Seemann - Dependency Injection .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/ref=sr_1_3?s=books&ie=UTF8&qid=1516526385&sr=1-3&keywords=dependency+injection+in+.net)<br/>
+[Gerard Meszaros - xUnit Test Patterns: Refactoring Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)<br/>
 
 ### 📻 Podcasts: <br/>
 [FatalError - Getting Started with Unit Testing](https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing)<br/>
