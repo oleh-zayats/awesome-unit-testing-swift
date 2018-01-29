@@ -72,6 +72,9 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
 [AppCoda - Automated UI Tests](https://www.appcoda.com/automated-ui-test/)<br/>
 [AppCoda - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
+[FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
+[FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
+[Krzysztof Zabłocki's Blog - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
