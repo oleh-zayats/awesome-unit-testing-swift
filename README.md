@@ -9,7 +9,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [WWDC 2015 - UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406) - A talk on crafting and maintaining UI tests. <br/>
 [Realm Academy. Jorge Ortiz - TDD For Masses](https://academy.realm.io/posts/cmdu-jorge-ortiz-tdd4masses/)<br/>
 [Realm Academy. Jorge Ortiz - Unit Testing in Swift 2](https://academy.realm.io/posts/jorge-ortiz-unit-testing-swift-2/)<br/>
-[Realm Academy. Michael May - Testing an Untested App/](https://academy.realm.io/posts/cmdu-michael-may-testing-untested-app/)<br/>
+[Realm Academy. Michael May - Testing an Untested App](https://academy.realm.io/posts/cmdu-michael-may-testing-untested-app/)<br/>
 [Realm Academy. Kyle Fuller - Testing Without xCode](https://academy.realm.io/posts/cmdu-fuller-testing-without-xcode/)<br/>
 [Realm Academy. Veronica Ray - Real World Mocking Swift](https://academy.realm.io/posts/tryswift-veronica-ray-real-world-mocking-swift/)<br/>
 [Realm Academy. Giovanni Lodi - Testing Realm Apps](https://academy.realm.io/posts/tutorial-testing-realm-apps/)<br/>
@@ -17,6 +17,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Realm Academy. Jaim Zuber - Stylish Developers Guide to Unit Testing in Swift](https://academy.realm.io/posts/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/)<br/>
 [Realm Academy. Ayaka Nonaka - Testing in Swift Protocols and ViewModels](https://academy.realm.io/posts/testing-in-swift-protocols-and-view-models/)<br/>
 [Realm Academy. Jeff Hui - Testing in Swift](https://academy.realm.io/posts/testing-in-swift/) <br/>
+[Realm Academy. Sam Soffes - DVR: Network Testing in Swift](https://academy.realm.io/posts/soffes-swift-network-testing-dvr/) <br/>
+[Realm Academy. G. Tregoning & P. Zabelin - Successful Test-Driven Development on iOS](https://academy.realm.io/posts/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)<br/>
 [NSSpain 2017. Dave Schukin - Why You Shouldn’t Write Tests (Yes, We’re Going There)](https://vimeo.com/235002959) <br/>
 [CocoaHeads Dusseldorf. Dominik Hauser - Test Driven iOS Development With Swift](https://www.youtube.com/watch?v=GLBToigJ-3M) <br/>
 [CocoaHeads Kyiv. John Sundell - Writing Swift Code with Great Testability](https://www.youtube.com/watch?v=HHEp4mcLXfk)<br/>
@@ -47,6 +49,11 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 
 ### 💡 Docs, Blogs and Tutorials: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
+[Chris Eidhof - QuickCheck-in Swift](http://chris.eidhof.nl/post/quickcheck-in-swift/)
+[initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
+[Andrew Bancroft - Unit Testing Model Layer with Core Data and Swift](http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift/)<br/>
+[Mokacoding.com - Testing callbacks in Swift with XCTest](http://www.mokacoding.com/blog/testing-callbacks-in-swift-with-xctest/)<br/>
+[Atomicobject.com: Matt Nedrich - Testing with Swift – Approaches & Useful Libraries](https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews)<br/>
 [Quality Coding by John Reid - How to Make Specialized Test Assertions in Swift](https://qualitycoding.org/swift-test-assertions/)<br/>
 [Quality Coding by John Reid - I’m Pretty Sure Most of Us Are Wrong about XCTestCase tearDown...](https://qualitycoding.org/teardown/)<br/>
 [Quality Coding by John Reid - Design Pattern for Tests that Do Real Networking](https://qualitycoding.org/asynchronous-tests/)<br/>
