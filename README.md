@@ -1,6 +1,8 @@
 # Unit Testing in Swift <br/>
 Collection of awesome blog articles, books, talks, podcasts, tools/frameworks and examples. <br/>
 
+![](https://travis-ci.org/oleh-zayats/unit-testing-swift.svg?branch=master)<br/>
+
 ### 📺 Talks: <br/>
 [Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) - A definitive guide to understanding how you can test a unit of code. <br/>
 [WWDC 2017 - Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/) - Techniques for designing the code of your an app so that it can be easily tested and best practices for developing a test suite that evolves with the app and scales as it grows. <br/>
