@@ -1,0 +1,15 @@
+language: ruby
+
+rvm:
+  ruby-2.4.1
+
+before_script: 
+  gem install awesome_bot
+
+script: 
+  wl=https://github.com/,http://git.io/,https://www.youtube.com/,https://vimeo.com,https://realm.io
+  
+  awesome_bot README.md --allow-redirect --white-list $wl
+
+notifications:
+  email: false
