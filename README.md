@@ -43,7 +43,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [FatalError - Getting Started with Unit Testing](https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing)<br/>
 [FatalError - Testing Your Network Layer](https://fatalerror.fm/episodes/2017/2/13/17-testing-your-network-layer)<br/>
 [Swift Unwrapped - Testing Swift](https://spec.fm/podcasts/swift-unwrapped/70319)<br/>
-[Podlodka podcast (RU) - TDD](https://soundcloud.com/podlodka/podlodka-11-tdd)<br/>
+[Podlodka podcast (RU) - Test-Driven Development](https://soundcloud.com/podlodka/podlodka-11-tdd)<br/>
 [Podlodka podcast (RU) - Mutational Testing](https://soundcloud.com/podlodka/podlodka-4-mutatsionnoe-testirovanie)<br/>
 [RayWenderlich - Unit Testing with Ellen Shapiro](https://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10)<br/>
 [Inside iOS Dev - Testing in Object-Oriented Applications](http://insideiosdev.com/6e60aca1)<br/>
@@ -83,7 +83,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [AppCoda - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
 [FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
-[Krzysztof Zabłocki's Blog - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
+[Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
+[Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
 [Andrey Mishanin - Unit Testing: Why and What](http://andrey-mishanin.ru/unit-testing-why-and-what.html)<br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
