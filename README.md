@@ -87,6 +87,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
 [Andrey Mishanin - Unit Testing: Why and What](http://andrey-mishanin.ru/unit-testing-why-and-what.html)<br/>
 [Oleg Dreyman - Taking Dependency Injection one step further with Swift](https://medium.com/anysuggestion/taking-dependency-injection-one-step-further-with-swift-cde1b3d41d49)<br/>
+[CocoaAcademy - Setup your iOS Testing Env](https://medium.com/cocoaacademymag/setup-your-ios-testing-env-5617d1a13043)<br/>
+[Rodrigo Cavalcante - Unit Testing  UITableView](https://medium.com/cocoaacademymag/unit-testing-uitableview-2387f3a42b4f)<br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
