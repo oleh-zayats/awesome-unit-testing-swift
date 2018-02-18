@@ -89,6 +89,13 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Oleg Dreyman - Taking Dependency Injection one step further with Swift](https://medium.com/anysuggestion/taking-dependency-injection-one-step-further-with-swift-cde1b3d41d49)<br/>
 [CocoaAcademy - Setup your iOS Testing Env](https://medium.com/cocoaacademymag/setup-your-ios-testing-env-5617d1a13043)<br/>
 [Rodrigo Cavalcante - Unit Testing  UITableView](https://medium.com/cocoaacademymag/unit-testing-uitableview-2387f3a42b4f)<br/>
+[Practical iOS Dev - Four simple rules for architecting iOS unit tests](https://medium.com/practical-ios-development/the-anatomy-of-a-well-architected-ios-unit-test-a509d2be9ec0) <br/> 
+[clean-swift.com - To mock or not to mock](https://clean-swift.com/to-mock-or-not-to-mock/) <br/> 
+[clean-swift.com - Does stubbing give you an empty feeling – am I stubbing too much?](https://clean-swift.com/am-i-stubbing-too-much/) <br/> 
+[clean-swift.com - Data independence is key to robust architecture and non-fragile unit tests](https://clean-swift.com/data-independence-is-key-to-robust-architecture-and-non-fragile-unit-tests/) <br/> 
+[clean-swift.com - Seed data for your unit tests](https://clean-swift.com/seed-data-unit-tests/) <br/> 
+[clean-swift.com - How to mock an Apple built-in class](https://clean-swift.com/mock-apple-built-in-class/) <br/> 
+[clean-swift.com - Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/) <br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
