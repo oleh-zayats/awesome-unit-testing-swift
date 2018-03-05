@@ -97,6 +97,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [clean-swift.com - How to mock an Apple built-in class](https://clean-swift.com/mock-apple-built-in-class/) <br/> 
 [clean-swift.com - Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/) <br/>
 [Bleeding Edge. Matthew Liam Healy - Writing better unit tests in Swift: Part One](https://medium.com/bleeding-edge/writing-better-unit-tests-in-swift-part-one-e4a06fbc682b) <br/>
+[Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/) <br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
