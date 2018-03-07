@@ -3,7 +3,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 
 ![](https://travis-ci.org/oleh-zayats/unit-testing-swift.svg?branch=master)<br/>
 
-### 📺 Talks: <br/>
+### 🎤 Talks: <br/>
 [Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) - A definitive guide to understanding how you can test a unit of code. <br/>
 [WWDC 2017 - Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/) - Techniques for designing the code of your an app so that it can be easily tested and best practices for developing a test suite that evolves with the app and scales as it grows. <br/>
 [WWDC 2017 - What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409)<br/>
@@ -22,14 +22,15 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Realm Academy. Sam Soffes - DVR: Network Testing in Swift](https://academy.realm.io/posts/soffes-swift-network-testing-dvr/) <br/>
 [Realm Academy. G. Tregoning & P. Zabelin - Successful Test-Driven Development on iOS](https://academy.realm.io/posts/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)<br/>
 [NSSpain 2017. Dave Schukin - Why You Shouldn’t Write Tests (Yes, We’re Going There)](https://vimeo.com/235002959) <br/>
+[CocoaHeads Cincinnati. Doug Sjoquist - Xcode UI Testing. The Good, the Bad, and the Ugly](https://www.youtube.com/watch?v=dhH2O1MxXDk) <br/>
 [CocoaHeads Dusseldorf. Dominik Hauser - Test Driven iOS Development With Swift](https://www.youtube.com/watch?v=GLBToigJ-3M) <br/>
 [CocoaHeads Kyiv. John Sundell - Writing Swift Code with Great Testability](https://www.youtube.com/watch?v=HHEp4mcLXfk)<br/>
-[CocoaHeads Moscow. Vadim Drobinin - Testing UI in xCode (RU)](https://www.youtube.com/watch?v=XmJl_0b1xbY)<br/>
-[CocoaHeads Moscow. Igor Vasilenko - TDD Patterns and why Do We Need To Know About Them (RU)](https://www.youtube.com/watch?v=ZyTJn2ne4Gg)<br/>
-[Rambler&Co. Andrey Ryazanov - Test-Driven Development in iOS (RU)](https://www.youtube.com/watch?v=v2AlaKD9TPg&t=12s) <br/>
+[CocoaHeads Moscow. (RU) Vadim Drobinin - Testing UI in xCode](https://www.youtube.com/watch?v=XmJl_0b1xbY)<br/>
+[CocoaHeads Moscow. (RU) Igor Vasilenko - TDD Patterns and why Do We Need To Know About Them](https://www.youtube.com/watch?v=ZyTJn2ne4Gg) <br/>
+[Rambler&Co (RU) Andrey Ryazanov - Test-Driven Development in iOS](https://www.youtube.com/watch?v=v2AlaKD9TPg&t=12s) <br/>
+[fwdays (RU) Alexey Demedetsky - Unit Testing in Swift](https://www.youtube.com/watch?v=fQRAeUGv-tw) <br/>
 
 ### 📙 Books: <br/>
-
 [Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)<br/>
 [Orta - Pragmatic iOS Unit Testing](https://www.gitbook.com/book/orta/pragmatic-ios-testing/details)<br/>
 [Kent Beck - Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)<br/>
@@ -49,7 +50,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Inside iOS Dev - Testing in Object-Oriented Applications](http://insideiosdev.com/6e60aca1)<br/>
 [Inside iOS Dev - Introduction to Dependency Injection](http://insideiosdev.com/4d78d46b)<br/>
 
-### 💡 Docs, Blogs and Tutorials: <br/>
+### 💡 Docs, Blogs Posts and Written Tutorials: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
 [Chris Eidhof - QuickCheck-in Swift](http://chris.eidhof.nl/post/quickcheck-in-swift/)
 [initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
@@ -100,6 +101,13 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Bleeding Edge. Matthew Liam Healy - Writing better unit tests in Swift: Part One](https://medium.com/bleeding-edge/writing-better-unit-tests-in-swift-part-one-e4a06fbc682b) <br/>
 [Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/) <br/>
 [MarisiBrothers.com - Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html#1b) <br/>
+[Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/) <br/>
+
+### 📺 Video Tutorials: <br/>
+[RayWanderlich.com RWDevCon 2016: Xcode UI Testing - Live Tutorial Session](https://www.youtube.com/watch?v=NrHSZgbQ7_k) <br/>
+[Essential Developer - Building a Swift Quiz App with TDD and Modular Design](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6) <br/>
+[Swift Programming Tutorials - Testing Asynchronous Code in Swift 3](https://www.youtube.com/watch?v=xa93cjIeuY0) <br/>
+[LetsBuildThatApp.com Brian Woong - What is Unit Testing, Why We Use It, and Sample Test Cases](https://www.youtube.com/watch?v=iWtxEDE1IR4) <br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
