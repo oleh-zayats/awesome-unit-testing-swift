@@ -66,6 +66,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Quality Coding by John Reid - Mocking Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/)<br/>
 [Quality Coding by John Reid - Swift Unit Testing Template](https://qualitycoding.org/swift-unit-testing-template/)<br/>
 [RayWanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
+[RayWanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial) <br/>
 [objc.io - Issue #15: Testing](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 [Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) - an old but great article on unit testing.<br/>
@@ -98,6 +99,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [clean-swift.com - Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/) <br/>
 [Bleeding Edge. Matthew Liam Healy - Writing better unit tests in Swift: Part One](https://medium.com/bleeding-edge/writing-better-unit-tests-in-swift-part-one-e4a06fbc682b) <br/>
 [Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/) <br/>
+[MarisiBrothers.com - Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html#1b) <br/>
 
 ### 📦 Testing Tools/Frameworks:<br/>
 [Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
