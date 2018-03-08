@@ -53,6 +53,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 
 ### 💡 Docs, Blogs Posts and Written Tutorials: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
+[Robert C. Martin - The Cycles Of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)<br/>
+[Robert C. Martin - The Pragmatics Of TDD](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)<br/>
 [Chris Eidhof - QuickCheck-in Swift](http://chris.eidhof.nl/post/quickcheck-in-swift/)
 [initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
 [Andrew Bancroft - Unit Testing Model Layer with Core Data and Swift](http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift/)<br/>
