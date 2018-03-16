@@ -70,7 +70,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Quality Coding by John Reid - Mocking Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/)<br/>
 [Quality Coding by John Reid - Swift Unit Testing Template](https://qualitycoding.org/swift-unit-testing-template/)<br/>
 [RayWanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
-[RayWanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial) <br/>
+[RayWanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)<br/>
 [objc.io - Issue #15: Testing](https://www.objc.io/issues/15-testing/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 [Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) - an old but great article on unit testing.<br/>
@@ -94,17 +94,20 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Oleg Dreyman - Taking Dependency Injection one step further with Swift](https://medium.com/anysuggestion/taking-dependency-injection-one-step-further-with-swift-cde1b3d41d49)<br/>
 [CocoaAcademy - Setup your iOS Testing Env](https://medium.com/cocoaacademymag/setup-your-ios-testing-env-5617d1a13043)<br/>
 [Rodrigo Cavalcante - Unit Testing  UITableView](https://medium.com/cocoaacademymag/unit-testing-uitableview-2387f3a42b4f)<br/>
-[Practical iOS Dev - Four simple rules for architecting iOS unit tests](https://medium.com/practical-ios-development/the-anatomy-of-a-well-architected-ios-unit-test-a509d2be9ec0) <br/> 
-[clean-swift.com - To mock or not to mock](https://clean-swift.com/to-mock-or-not-to-mock/) <br/> 
-[clean-swift.com - Does stubbing give you an empty feeling – am I stubbing too much?](https://clean-swift.com/am-i-stubbing-too-much/) <br/> 
-[clean-swift.com - Data independence is key to robust architecture and non-fragile unit tests](https://clean-swift.com/data-independence-is-key-to-robust-architecture-and-non-fragile-unit-tests/) <br/> 
-[clean-swift.com - Seed data for your unit tests](https://clean-swift.com/seed-data-unit-tests/) <br/> 
-[clean-swift.com - How to mock an Apple built-in class](https://clean-swift.com/mock-apple-built-in-class/) <br/> 
-[clean-swift.com - Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/) <br/>
-[Bleeding Edge. Matthew Liam Healy - Writing better unit tests in Swift: Part One](https://medium.com/bleeding-edge/writing-better-unit-tests-in-swift-part-one-e4a06fbc682b) <br/>
-[Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/) <br/>
-[MarisiBrothers.com - Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html#1b) <br/>
-[Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/) <br/>
+[Practical iOS Dev - Four simple rules for architecting iOS unit tests](https://medium.com/practical-ios-development/the-anatomy-of-a-well-architected-ios-unit-test-a509d2be9ec0)<br/> 
+[clean-swift.com - To mock or not to mock](https://clean-swift.com/to-mock-or-not-to-mock/)<br/> 
+[clean-swift.com - Does stubbing give you an empty feeling – am I stubbing too much?](https://clean-swift.com/am-i-stubbing-too-much/)<br/> 
+[clean-swift.com - Data independence is key to robust architecture and non-fragile unit tests](https://clean-swift.com/data-independence-is-key-to-robust-architecture-and-non-fragile-unit-tests/)<br/> 
+[clean-swift.com - Seed data for your unit tests](https://clean-swift.com/seed-data-unit-tests/)<br/> 
+[clean-swift.com - How to mock an Apple built-in class](https://clean-swift.com/mock-apple-built-in-class/)<br/> 
+[clean-swift.com - Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/)<br/>
+[Bleeding Edge. Matthew Liam Healy - Writing better unit tests in Swift: Part One](https://medium.com/bleeding-edge/writing-better-unit-tests-in-swift-part-one-e4a06fbc682b)<br/>
+[Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/)<br/>
+[MarisiBrothers.com - Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html#1b)<br/>
+[Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/)<br/>
+[AlbertoDebortoli.com - The Template for View Controller Unit Testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/)<br/>
+[AlbertoDebortoli.com - Offline UI Testing on iOS with Stubs](https://albertodebortoli.com/2015/11/23/offline-ui-testing-on-ios-with-stubs/)<br/>
+[Alexander Grebenyuk - RxSwift Testing](http://kean.github.io/post/rxswift-testing)<br/>
 
 ### 📺 Video Tutorials: <br/>
 [RayWanderlich.com RWDevCon 2016: Xcode UI Testing - Live Tutorial Session](https://www.youtube.com/watch?v=NrHSZgbQ7_k) <br/>
