@@ -85,6 +85,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
 [Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
 [Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
+[Hesham Salman - The iOS Testing Manifesto](https://medium.com/@hesham.salman/the-ios-testing-manifesto-e1bc821cc4c3)<br/>
 [iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
 [initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
 [Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/)<br/>
