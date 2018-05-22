@@ -31,26 +31,6 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Rambler&Co (RU) Andrey Ryazanov - Test-Driven Development in iOS](https://www.youtube.com/watch?v=v2AlaKD9TPg&t=12s) <br/>
 [fwdays (RU) Alexey Demedetsky - Unit Testing in Swift](https://www.youtube.com/watch?v=fQRAeUGv-tw) <br/>
 
-### 📙 Books: <br/>
-[Dominik Hauser - TDD in Swift 4](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)<br/>
-[Graham Lee - Test-Driven iOS Development](https://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183)<br/>
-[Gerard Meszaros - xUnit Test Patterns: Refactoring Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)<br/>
-[Kent Beck - Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)<br/>
-[Orta - Pragmatic iOS Unit Testing](https://www.gitbook.com/book/orta/pragmatic-ios-testing/details)<br/>
-[Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)<br/>
-[Mark Seemann - Dependency Injection .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/ref=sr_1_3?s=books&ie=UTF8&qid=1516526385&sr=1-3&keywords=dependency+injection+in+.net)<br/>
-[Steve Freeman - Growing Object-Oriented Software, Guided by Tests](https://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=growing+object-oriented+software+guided+by+tests)<br/>
-
-### 📻 Podcasts: <br/>
-[FatalError - Getting Started with Unit Testing](https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing)<br/>
-[FatalError - Testing Your Network Layer](https://fatalerror.fm/episodes/2017/2/13/17-testing-your-network-layer)<br/>
-[Podlodka podcast (RU) - Test-Driven Development](https://soundcloud.com/podlodka/podlodka-11-tdd)<br/>
-[Podlodka podcast (RU) - Mutational Testing](https://soundcloud.com/podlodka/podlodka-4-mutatsionnoe-testirovanie)<br/>
-[RayWenderlich - Unit Testing with Ellen Shapiro](https://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10)<br/>
-[Inside iOS Dev - Testing in Object-Oriented Applications](http://insideiosdev.com/6e60aca1)<br/>
-[Inside iOS Dev - Introduction to Dependency Injection](http://insideiosdev.com/4d78d46b)<br/>
-[Swift Unwrapped - Testing Swift](https://spec.fm/podcasts/swift-unwrapped/70319)<br/>
-
 ### 💡 Docs, Blogs Posts and Written Tutorials: <br/>
 [Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
 [Andrey Mishanin - Unit Testing: Why and What](http://andrey-mishanin.ru/unit-testing-why-and-what.html)<br/>
@@ -85,7 +65,6 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
 [Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
 [Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
-[Hesham Salman - The iOS Testing Manifesto](https://medium.com/@hesham.salman/the-ios-testing-manifesto-e1bc821cc4c3)<br/>
 [iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
 [initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
 [Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/)<br/>
@@ -121,17 +100,37 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Swift by Sundell - Avoiding Force Unwrapping in Swift Unit Tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)<br/>
 [Shashikant Jagtap - Network Stubbing options for XCTest and XCUITest in Swift](https://medium.com/xcblog/network-stubbing-options-for-xctest-and-xcuitest-in-swift-2e0dcce9a37d)<br/>
 
+### 👨🏼‍💻 Checklists & Notes: <br/>
+[iOS Testing Manifesto (by Hesham Salman)](https://medium.com/@hesham.salman/the-ios-testing-manifesto-e1bc821cc4c3) <br/>
+[Unit Testing Patterns (by Clint Cabanero)](https://github.com/ccabanero/ios-unit-testing-patterns) <br/>
+[Testing Notes (by Ivan Kusalic)](https://gist.github.com/ikusalic/7145077) <br/>
+
+### 📙 Books: <br/>
+[Dominik Hauser - TDD in Swift 4](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)<br/>
+[Graham Lee - Test-Driven iOS Development](https://www.amazon.com/Test-Driven-iOS-Development-Developers-Library/dp/0321774183)<br/>
+[Gerard Meszaros - xUnit Test Patterns: Refactoring Code](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054)<br/>
+[Kent Beck - Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)<br/>
+[Orta - Pragmatic iOS Unit Testing](https://www.gitbook.com/book/orta/pragmatic-ios-testing/details)<br/>
+[Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)<br/>
+[Mark Seemann - Dependency Injection .NET](https://www.amazon.com/Dependency-Injection-NET-Mark-Seemann/dp/1935182501/ref=sr_1_3?s=books&ie=UTF8&qid=1516526385&sr=1-3&keywords=dependency+injection+in+.net)<br/>
+[Steve Freeman - Growing Object-Oriented Software, Guided by Tests](https://www.amazon.co.uk/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=growing+object-oriented+software+guided+by+tests)<br/>
+
+### 📻 Podcasts: <br/>
+[FatalError - Getting Started with Unit Testing](https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing)<br/>
+[FatalError - Testing Your Network Layer](https://fatalerror.fm/episodes/2017/2/13/17-testing-your-network-layer)<br/>
+[Podlodka podcast (RU) - Test-Driven Development](https://soundcloud.com/podlodka/podlodka-11-tdd)<br/>
+[Podlodka podcast (RU) - Mutational Testing](https://soundcloud.com/podlodka/podlodka-4-mutatsionnoe-testirovanie)<br/>
+[RayWenderlich - Unit Testing with Ellen Shapiro](https://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10)<br/>
+[Inside iOS Dev - Testing in Object-Oriented Applications](http://insideiosdev.com/6e60aca1)<br/>
+[Inside iOS Dev - Introduction to Dependency Injection](http://insideiosdev.com/4d78d46b)<br/>
+[Swift Unwrapped - Testing Swift](https://spec.fm/podcasts/swift-unwrapped/70319)<br/>
+
 ### 📺 Video Tutorials: <br/>
 [RayWanderlich.com RWDevCon 2016: Xcode UI Testing - Live Tutorial Session](https://www.youtube.com/watch?v=NrHSZgbQ7_k) <br/>
 [Essential Developer - Building a Swift Quiz App with TDD and Modular Design](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6) <br/>
 [Swift Programming Tutorials - Testing Asynchronous Code in Swift 3](https://www.youtube.com/watch?v=xa93cjIeuY0) <br/>
 [LetsBuildThatApp.com Brian Woong - What is Unit Testing, Why We Use It, and Sample Test Cases](https://www.youtube.com/watch?v=iWtxEDE1IR4) <br/>
 
-### 📦 Testing Tools/Frameworks:<br/>
-[Quick](https://github.com/Quick/Quick) - a behavior-driven development framework for Swift and Objective-C. <br/>
-[Nimble](https://github.com/Quick/Nimble) - a framework for expressing the expected outcomes of Swift or Objective-C expressions. <br/>
-[OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - a library designed to stub your network requests very easily. <br/>
-[iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - snapshot view unit tests for iOS. <br/> 
-##### Curated Lists
+### 📦 Awesome Curated Lists (Testing Tools/Frameworks) 
 [Awesome-iOS Testing](https://github.com/vsouza/awesome-ios#testing) - iOS testing tools/frameworks.<br/>
 [Awesome-Swift Testing](https://github.com/matteocrippa/awesome-swift#testing) - Swift testing tools/frameworks.<br/>
