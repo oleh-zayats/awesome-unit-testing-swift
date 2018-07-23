@@ -34,7 +34,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [fwdays (RU) Alexey Demedetsky - Unit Testing in Swift](https://www.youtube.com/watch?v=fQRAeUGv-tw) <br/>
 
 ### 💡 Docs, Blogs Posts and Written Tutorials: <br/>
-[Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html) - basics, writing test classes/methods, debugging, code coverage etc.<br/>
+[Apple - Unit Testing Concepts](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)<br/>
 [Andrey Mishanin - Unit Testing: Why and What](http://andrey-mishanin.ru/unit-testing-why-and-what.html)<br/>
 [Andrew Bancroft - Unit Testing Model Layer with Core Data and Swift](http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift/)<br/>
 [Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/)<br/>
