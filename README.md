@@ -61,6 +61,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [clean-swift.com - Seed data for your unit tests](https://clean-swift.com/seed-data-unit-tests/)<br/> 
 [clean-swift.com - How to mock an Apple built-in class](https://clean-swift.com/mock-apple-built-in-class/)<br/> 
 [clean-swift.com - Advanced Dependency Injection](https://clean-swift.com/advanced-dependency-injection/)<br/>
+[clean-swift.com - Unit Testing and TDD Terminology](https://clean-swift.com/unit-testing-and-tdd-terminology/)<br/>
+[clean-swift.com - How to Make Your Unit Tests Run Faster](https://clean-swift.com/how-to-make-your-unit-tests-run-faster/)<br/>
 [FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
 [Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
@@ -88,6 +90,8 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [raywanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
 [raywanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)<br/>
 [Rodrigo Cavalcante - Unit Testing  UITableView](https://medium.com/cocoaacademymag/unit-testing-uitableview-2387f3a42b4f)<br/>
+
+[roadfiresoftware.com - How to Write Unit Tests in Swift 4](https://roadfiresoftware.com/2018/03/how-to-write-unit-tests-in-swift-4-with-xctest/)<br/>
 [Robert C. Martin - The Cycles Of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)<br/>
 [Robert C. Martin - The Pragmatics Of TDD](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)<br/>
 [Swift by Sundell - Unit Testing in Playgrounds](https://www.swiftbysundell.com/posts/writing-unit-tests-in-a-swift-playground)<br/>
