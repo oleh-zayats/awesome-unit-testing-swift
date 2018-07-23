@@ -4,12 +4,13 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 ![](https://travis-ci.org/oleh-zayats/unit-testing-swift.svg?branch=master)<br/>
 
 ### 🎤 Talks: <br/>
-[Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) - A definitive guide to understanding how you can test a unit of code. <br/>
-[WWDC 2018 - Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/) - Discover techniques for making hard-to-test code testable on Apple platforms using XCTest. Learn a variety of tips for writing higher-quality tests that run fast and require less maintenance. <br/>
-[WWDC 2017 - Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/) - Techniques for designing the code of your an app so that it can be easily tested and best practices for developing a test suite that evolves with the app and scales as it grows. <br/>
+
+[WWDC 2018 - Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)  <br/>
+[WWDC 2017 - Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/) <br/>
 [WWDC 2017 - What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409)<br/>
-[WWDC 2016 - Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409) - An advanced class in Testing and Xcode Server. <br/>
-[WWDC 2015 - UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406) - A talk on crafting and maintaining UI tests.<br/>
+[WWDC 2016 - Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409)<br/>
+[WWDC 2015 - UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406)<br/>
+[Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) <br/>
 [Realm Academy. Jon Reid - Making Mock Objects More Useful](https://academy.realm.io/posts/making-mock-objects-more-useful-try-swift-2017/)<br/>
 [Realm Academy. Jorge Ortiz - TDD For Masses](https://academy.realm.io/posts/cmdu-jorge-ortiz-tdd4masses/)<br/>
 [Realm Academy. Jorge Ortiz - Unit Testing in Swift 2](https://academy.realm.io/posts/jorge-ortiz-unit-testing-swift-2/)<br/>
