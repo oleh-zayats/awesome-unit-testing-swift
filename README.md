@@ -69,10 +69,11 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
 [girappe.com - Using SwiftyMocky to generate mocks and simplify unit testing in Swift](http://blog.girappe.com/?swiftymocky/)<br/>
-[Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
-[Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
+[Humble iOS Developer - Testing with Moya 101](https://medium.com/@imho_ios/testing-with-moya-101-9e33a9404d61)<br/>
 [iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
 [initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
+[Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
+[Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
 [Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/)<br/>
 [MarisiBrothers.com - Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html#1b)<br/>
 [Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) <br/>
@@ -94,7 +95,6 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [raywanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
 [raywanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)<br/>
 [Rodrigo Cavalcante - Unit Testing  UITableView](https://medium.com/cocoaacademymag/unit-testing-uitableview-2387f3a42b4f)<br/>
-
 [roadfiresoftware.com - How to Write Unit Tests in Swift 4](https://roadfiresoftware.com/2018/03/how-to-write-unit-tests-in-swift-4-with-xctest/)<br/>
 [Robert C. Martin - The Cycles Of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)<br/>
 [Robert C. Martin - The Pragmatics Of TDD](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)<br/>
