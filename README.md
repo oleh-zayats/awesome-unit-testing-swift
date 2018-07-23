@@ -42,6 +42,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [atomicobject.com: Matt Nedrich - Testing with Swift – Approaches & Useful Libraries](https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews)<br/>
 [albertodebortoli.com - The Template for View Controller Unit Testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/)<br/>
 [albertodebortoli.com - Offline UI Testing on iOS with Stubs](https://albertodebortoli.com/2015/11/23/offline-ui-testing-on-ios-with-stubs/)<br/>
+[Agranat Mark - Mocking in Swift with Sourcery (RU)](https://habr.com/post/332120/)<br/>
 [appcoda.com - Automated UI Tests](https://www.appcoda.com/automated-ui-test/)<br/>
 [appcoda.com - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
 [appcoda.com - TDD with Quick & Nimble](https://www.appcoda.com/tdd-quick-nimble/)<br/>
@@ -67,13 +68,14 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [clean-swift.com - How to Make Your Unit Tests Run Faster](https://clean-swift.com/how-to-make-your-unit-tests-run-faster/)<br/>
 [FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
+[girappe.com - Using SwiftyMocky to generate mocks and simplify unit testing in Swift](http://blog.girappe.com/?swiftymocky/)<br/>
 [Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
 [Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
 [iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
 [initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
 [Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/)<br/>
 [MarisiBrothers.com - Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html#1b)<br/>
-[Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) - an old but great article on unit testing.<br/>
+[Mike Ash - Writing Unit Tests](https://www.mikeash.com/pyblog/friday-qa-2011-07-22-writing-unit-tests.html) <br/>
 [mokacoding.com - Testing callbacks in Swift with XCTest](http://www.mokacoding.com/blog/testing-callbacks-in-swift-with-xctest/)<br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 [objc.io - Issue #15: Testing](https://www.objc.io/issues/15-testing/)<br/>
