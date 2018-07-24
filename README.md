@@ -125,6 +125,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 
 ### 📻 Podcasts: <br/>
 [FatalError - Getting Started with Unit Testing](https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing)<br/>
+[FatalError - Hypothetical Testing Tricks](https://fatalerror.fm/episodes/2018/3/16/61-hypothetical-testing-tricks)<br/>
 [FatalError - Testing Your Network Layer](https://fatalerror.fm/episodes/2017/2/13/17-testing-your-network-layer)<br/>
 [Podlodka podcast (RU) - Test-Driven Development](https://soundcloud.com/podlodka/podlodka-11-tdd)<br/>
 [Podlodka podcast (RU) - Mutational Testing](https://soundcloud.com/podlodka/podlodka-4-mutatsionnoe-testirovanie)<br/>
