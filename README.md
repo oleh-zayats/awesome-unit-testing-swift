@@ -77,6 +77,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
 [FlawlessApp Blog. ShihTing Huang - Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18)<br/>
+[FlawlessApp Blog. Leandro Pérez - Memory Leaks in Swift (Testing for Leaks)](https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74)<br/>
 [girappe.com - Using SwiftyMocky to generate mocks and simplify unit testing in Swift](http://blog.girappe.com/?swiftymocky/)<br/>
 [Humble iOS Developer - Testing with Moya 101](https://medium.com/@imho_ios/testing-with-moya-101-9e33a9404d61)<br/>
 [hoangtran.me - How to unit test your Realm database layer](http://hoangtran.me/ios/testing/2016/10/15/how-to-unit-test-your-realm-database-layer/)<br/>
