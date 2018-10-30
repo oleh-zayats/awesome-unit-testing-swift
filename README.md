@@ -154,6 +154,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Essential Developer - Building a Swift Quiz App with TDD and Modular Design](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6) <br/>
 [Swift Programming Tutorials - Testing Asynchronous Code in Swift 3](https://www.youtube.com/watch?v=xa93cjIeuY0) <br/>
 [LetsBuildThatApp.com Brian Woong - What is Unit Testing, Why We Use It, and Sample Test Cases](https://www.youtube.com/watch?v=iWtxEDE1IR4) <br/>
+[Code Pro - iOS Unit Test Mocking Tutorial](https://www.youtube.com/watch?v=zB61-7E7eoo)<br/>
 
 
 ### 📦 Awesome Curated Lists (Testing Tools/Frameworks) 
