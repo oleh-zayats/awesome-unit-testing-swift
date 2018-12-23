@@ -45,6 +45,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/)<br/>
 [agnosticdev.com - How to Write Unit Tests in Swift](https://www.agnosticdev.com/content/how-write-unit-tests-swift) <br/>
 [Alexander Grebenyuk - RxSwift Testing](http://kean.github.io/post/rxswift-testing)<br/>
+[Alexander Murphy - The Guide to Unit Testing in Swift with Apollo and GraphQL (Part One)](https://medium.com/@alexandermurphy/the-guide-to-unit-testing-in-swift-with-apollo-and-graphql-part-one-b82f6842e058)<br/>
 [atomicobject.com: Matt Nedrich - Testing with Swift – Approaches & Useful Libraries](https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews)<br/>
 [albertodebortoli.com - The Template for View Controller Unit Testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/)<br/>
 [albertodebortoli.com - Offline UI Testing on iOS with Stubs](https://albertodebortoli.com/2015/11/23/offline-ui-testing-on-ios-with-stubs/)<br/>
