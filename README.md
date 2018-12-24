@@ -83,7 +83,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Humble iOS Developer - Testing with Moya 101](https://medium.com/@imho_ios/testing-with-moya-101-9e33a9404d61)<br/>
 [hoangtran.me - How to unit test your Realm database layer](http://hoangtran.me/ios/testing/2016/10/15/how-to-unit-test-your-realm-database-layer/)<br/>
 [iOS Unit Testing by Ron Lisle](http://iosunittesting.com)<br/>
-[initwithstyle.net - TDD in Swift Playgrounds](http://initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
+[initwithstyle.net - TDD in Swift Playgrounds](initwithstyle.net/2015/11/tdd-in-swift-playgrounds/)<br/>
 [Joe Susnick - How to test a Nib](https://medium.com/@joesusnick/how-to-test-a-nib-533d02847d78)<br/>
 [Krzysztof Zabłocki - Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/)<br/>
 [Marco Santa - Test Doubles In Swift](https://marcosantadev.com/test-doubles-swift/)<br/>
