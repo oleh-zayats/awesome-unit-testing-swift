@@ -112,6 +112,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Robert C. Martin - The Pragmatics Of TDD](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)<br/>
 [robkerr.com - Flexible and Easy Unit Testing of CoreData Persistence Code](https://robkerr.com/flexible-and-easy-unit-testing-of-coredata-persistence-code-2b2cf456cfae)<br/>
 [Swift 2 Go - How to test with fake data on ios](https://medium.com/swift2go/how-to-test-with-fake-data-on-ios-66dc87bf093e)<br/>
+[Swift by Sundell - Mock-free Unit Tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)<br/>
 [Swift by Sundell - Unit Testing in Playgrounds](https://www.swiftbysundell.com/posts/writing-unit-tests-in-a-swift-playground)<br/>
 [Swift by Sundell - Using Unit Tests to Identify and Avoid Memory Leaks](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift)<br/>
 [Swift by Sundell - Mocking in Swift](https://www.swiftbysundell.com/posts/mocking-in-swift)<br/>
