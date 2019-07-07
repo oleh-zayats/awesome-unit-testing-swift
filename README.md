@@ -1,15 +1,16 @@
-# Unit Testing in Swift <br/>
-Collection of awesome blog articles, books, talks, podcasts, tools/frameworks and examples. <br/>
+# Awesome Unit Testing in Swift <br/>
+A curated collection of awesome blog articles, books, talks, podcasts, tools/frameworks and examples. <br/>
 
 ![](https://travis-ci.org/oleh-zayats/unit-testing-swift.svg?branch=master)<br/>
 
 ### 🎤 Talks: <br/>
 
-[WWDC 2018 - Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)  <br/>
-[WWDC 2017 - Engineering for Testability](https://developer.apple.com/videos/play/wwdc2017/414/) <br/>
-[WWDC 2017 - What's New in Testing](https://developer.apple.com/videos/play/wwdc2017/409)<br/>
-[WWDC 2016 - Advanced Testing and Continuous Integration](https://developer.apple.com/videos/play/wwdc2016/409)<br/>
-[WWDC 2015 - UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406) <br/>
+[WWDC 2019 - Testing in Xcode (Session 413)](https://developer.apple.com/videos/play/wwdc2019/413/)<br/>
+[WWDC 2018 - Testing Tips & Tricks (Session 417)](https://developer.apple.com/videos/play/wwdc2018/417/)  <br/>
+[WWDC 2017 - Engineering for Testability (Session 414)](https://developer.apple.com/videos/play/wwdc2017/414/) <br/>
+[WWDC 2017 - What's New in Testing (Session 409)](https://developer.apple.com/videos/play/wwdc2017/409)<br/>
+[WWDC 2016 - Advanced Testing and Continuous Integration (Session 409)](https://developer.apple.com/videos/play/wwdc2016/409)<br/>
+[WWDC 2015 - UI Testing in Xcode (Session 406)](https://developer.apple.com/videos/play/wwdc2015/406) <br/>
 [Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) <br/>
 [RAMBLER&Co. Rambler.iOS #5. Stas Tsyganov (RU) - VIPER & TDD](https://www.youtube.com/watch?v=1y2vxtD7b6g) <br/>
 [RAMBLER&Co. Rambler.iOS #8. Egor Tolstoy (RU) - Clean Unit Tests](https://www.youtube.com/watch?v=VQscQ-glpwI) <br/>
@@ -104,6 +105,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Quality Coding by John Reid - Mocking Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/)<br/>
 [Quality Coding by John Reid - Swift Unit Testing Template](https://qualitycoding.org/swift-unit-testing-template/)<br/>
 [raizlabs.com - XCTest and Optional Unwrapping](https://www.raizlabs.com/dev/2017/02/xctest-optional-unwrapping/)<br/>
+[raywanderlich.com - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)<br/>
 [raywanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
 [raywanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)<br/>
 [Rodrigo Cavalcante - Unit Testing  UITableView](https://medium.com/cocoaacademymag/unit-testing-uitableview-2387f3a42b4f)<br/>
@@ -112,6 +114,7 @@ Collection of awesome blog articles, books, talks, podcasts, tools/frameworks an
 [Robert C. Martin - The Pragmatics Of TDD](http://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)<br/>
 [robkerr.com - Flexible and Easy Unit Testing of CoreData Persistence Code](https://robkerr.com/flexible-and-easy-unit-testing-of-coredata-persistence-code-2b2cf456cfae)<br/>
 [Swift 2 Go - How to test with fake data on ios](https://medium.com/swift2go/how-to-test-with-fake-data-on-ios-66dc87bf093e)<br/>
+[Swift by Sundell - Unit Testing](https://www.swiftbysundell.com/basics/unit-testing)<br/>
 [Swift by Sundell - Mock-free Unit Tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)<br/>
 [Swift by Sundell - Unit Testing in Playgrounds](https://www.swiftbysundell.com/posts/writing-unit-tests-in-a-swift-playground)<br/>
 [Swift by Sundell - Using Unit Tests to Identify and Avoid Memory Leaks](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift)<br/>
