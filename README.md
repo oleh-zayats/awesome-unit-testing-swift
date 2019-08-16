@@ -5,7 +5,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 
 ## 🎤 Talks: <br/>
 
-### Apple <br/>
+### Apple WWDC <br/>
 [Apple WWDC 2019 - Testing in Xcode (Session 413)](https://developer.apple.com/videos/play/wwdc2019/413/)<br/>
 [Apple WWDC 2018 - Testing Tips & Tricks (Session 417)](https://developer.apple.com/videos/play/wwdc2018/417/)  <br/>
 [Apple WWDC 2017 - Engineering for Testability (Session 414)](https://developer.apple.com/videos/play/wwdc2017/414/) <br/>
