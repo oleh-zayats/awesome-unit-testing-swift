@@ -29,17 +29,21 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [Realm Academy. G. Tregoning & P. Zabelin - Successful Test-Driven Development on iOS](https://academy.realm.io/posts/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)<br/>
 
 ### CocoaHeads <br/>
-[CocoaHeads Cincinnati. Doug Sjoquist - Xcode UI Testing. The Good, the Bad, and the Ugly](https://www.youtube.com/watch?v=dhH2O1MxXDk) <br/>
-[CocoaHeads Dusseldorf. Dominik Hauser - Test Driven iOS Development With Swift](https://www.youtube.com/watch?v=GLBToigJ-3M) <br/>
-[CocoaHeads Kyiv. John Sundell - Writing Swift Code with Great Testability](https://www.youtube.com/watch?v=HHEp4mcLXfk)<br/>
-[CocoaHeads Moscow. (RU) Vadim Drobinin - Testing UI in xCode](https://www.youtube.com/watch?v=XmJl_0b1xbY)<br/>
-[CocoaHeads Moscow. (RU) Igor Vasilenko - TDD Patterns and why Do We Need To Know About Them](https://www.youtube.com/watch?v=ZyTJn2ne4Gg) <br/>
+[CocoaHeads Cincinnati (EN) Doug Sjoquist - Xcode UI Testing. The Good, the Bad, and the Ugly](https://www.youtube.com/watch?v=dhH2O1MxXDk) <br/>
+[CocoaHeads Dusseldorf (EN) Dominik Hauser - Test Driven iOS Development With Swift](https://www.youtube.com/watch?v=GLBToigJ-3M) <br/>
+[CocoaHeads Kyiv (EN) John Sundell - Writing Swift Code with Great Testability](https://www.youtube.com/watch?v=HHEp4mcLXfk)<br/>
+[CocoaHeads Moscow (RU) Vadim Drobinin - Testing UI in xCode](https://www.youtube.com/watch?v=XmJl_0b1xbY)<br/>
+[CocoaHeads Moscow (RU) Igor Vasilenko - TDD Patterns and why Do We Need To Know About Them](https://www.youtube.com/watch?v=ZyTJn2ne4Gg) <br/>
 
 ### Rambler & Co <br/>
 [Rambler & Co (RU) Rambler.iOS #5. Stas Tsyganov - VIPER & TDD](https://www.youtube.com/watch?v=1y2vxtD7b6g) <br/>
 [Rambler & Co (RU) Rambler.iOS #8. Egor Tolstoy - Clean Unit Tests](https://www.youtube.com/watch?v=VQscQ-glpwI) <br/>
 [Rambler & Co (RU) Aleksandr Sychev - RDSDataSource: Clean tests with Swift](https://www.youtube.com/watch?v=PQOLU1d6iIM)<br/>
 [Rambler & Co (RU) Andrey Ryazanov - Test-Driven Development in iOS](https://www.youtube.com/watch?v=v2AlaKD9TPg&t=12s) <br/>
+
+### Mobius <br/>
+[Mobius 2019 (EN) Ewa Ludwiczak, Aleksander Grzyb — Layers of Testing in iOS Applications](https://www.youtube.com/watch?v=IMRIvRZtH7s) <br/>
+[Mobius 2016 (RU) Evgenyi Matsiuk — Writing Testable Code](https://www.youtube.com/watch?v=AlxMGxs2QnM&t=2s) <br/>
 
 ### Misc <br/>
 [fwdays (RU) Alexey Demedetsky - Unit Testing in Swift](https://www.youtube.com/watch?v=fQRAeUGv-tw) <br/>
