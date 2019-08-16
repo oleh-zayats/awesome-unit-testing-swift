@@ -170,6 +170,9 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [swiftyjimmy.com - How to unit test ViewModel in Swift](http://swiftyjimmy.com/unit-test-mvvm-in-swift/) <br/>
 [Shashikant Jagtap - Network Stubbing options for XCTest and XCUITest in Swift](https://medium.com/xcblog/network-stubbing-options-for-xctest-and-xcuitest-in-swift-2e0dcce9a37d)<br/>
 
+### Y <br/>
+[Yet Another Swift Blog by Vadim Bulavin - Real World Unit Testing in Swift](https://www.vadimbulavin.com/real-world-unit-testing-in-swift/)<br/>
+
 ### W <br/>
 [williamboles.me - Can unit testing and CoreData become BFFs?](https://williamboles.me/can-unit-testing-and-core-data-become-bffs/)<br/>
 
