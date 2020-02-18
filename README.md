@@ -48,7 +48,9 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 ### Misc <br/>
 [fwdays (RU) Alexey Demedetsky - Unit Testing in Swift](https://www.youtube.com/watch?v=fQRAeUGv-tw) <br/>
 [NSSpain 2017. Dave Schukin - Why You Shouldn’t Write Tests (Yes, We’re Going There)](https://vimeo.com/235002959) <br/>
+[Swift London, Yvette Cook - Understanding Rx Swift using Rx Tests](https://www.youtube.com/watch?v=FgbTenGH-P0) <br/>
 [Devoxx Belgium. Maxime David - How to test your awesome iOS mobile application?](https://www.youtube.com/watch?v=mx4ISpaOjPo) <br/>
+[MOConfBy, Eleni Papanikolopoulou - Venturing the world of Rx Swift Unit Testing](https://www.youtube.com/watch?v=49K6MMhn-fc)<br/>
 [Pivotal Labs. Alex Tamoykin - Test Driven Development with Xcode](https://www.youtube.com/watch?v=06-9Xsd8saA) <br/>
 [Jon Reid - Test Driven Development for iOS](https://www.youtube.com/watch?v=Jzlz3Bx-NzM) <br/>
 
@@ -59,7 +61,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [Andrew Bancroft - Unit Testing Model Layer with Core Data and Swift](http://www.andrewcbancroft.com/2015/01/13/unit-testing-model-layer-core-data-swift/)<br/>
 [Adam Borek - RxTest. How to test the Observable in Swift](http://adamborek.com/rxtests-rxactionsheet/)<br/>
 [agnosticdev.com - How to Write Unit Tests in Swift](https://www.agnosticdev.com/content/how-write-unit-tests-swift) <br/>
-[Alexander Grebenyuk - RxSwift Testing](http://kean.github.io/post/rxswift-testing)<br/>
+[Alexander Grebenyuk - Rx Swift Testing](http://kean.github.io/post/rxswift-testing)<br/>
 [Alexander Murphy - The Guide to Unit Testing in Swift with Apollo and GraphQL (Part One)](https://medium.com/@alexandermurphy/the-guide-to-unit-testing-in-swift-with-apollo-and-graphql-part-one-b82f6842e058)<br/>
 [atomicobject.com: Matt Nedrich - Testing with Swift – Approaches & Useful Libraries](https://spin.atomicobject.com/2016/05/02/testing-swift-code/#.VydVY-RcsWY.hackernews)<br/>
 [albertodebortoli.com - The Template for View Controller Unit Testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/)<br/>
@@ -68,10 +70,13 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [appcoda.com - Automated UI Tests](https://www.appcoda.com/automated-ui-test/)<br/>
 [appcoda.com - Unit Testing in Swift](https://www.appcoda.com/unit-testing-swift/)<br/>
 [appcoda.com - TDD with Quick & Nimble](https://www.appcoda.com/tdd-quick-nimble/)<br/>
+[appunite.com - How to test iOS apps with Combine, ReactiveSwift and Rx Swift](https://appunite.com/blog/testing-ios-apps-combine-reactiveswift-rxswift)<br/>
 
 ### B <br/>
 [Bleeding Edge. Matthew Liam Healy - Writing better unit tests in Swift: Part One](https://medium.com/bleeding-edge/writing-better-unit-tests-in-swift-part-one-e4a06fbc682b)<br/>
 [Benoit Pasquier - Unit Testing your MVVM architecture in Swift](https://benoitpasquier.com/unit-test-swift-mvvm-pattern/) <br/>
+[Benoit Pasquier - Rx Swift & MVVM - How to use Rx Tests to test your ViewModel](https://benoitpasquier.com/how-to-use-rxtests-to-test-mvvm/) <br/>
+
 
 ### C <br/>
 [CocoaAcademy - Setup your iOS Testing Env](https://medium.com/cocoaacademymag/setup-your-ios-testing-env-5617d1a13043)<br/>
@@ -96,6 +101,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [clean-swift.com - How to Make Your Unit Tests Run Faster](https://clean-swift.com/how-to-make-your-unit-tests-run-faster/)<br/>
 
 ### F <br/>
+[freecodecamp.org (Navdeep Singh) - How to run tests in Rx Swift](https://www.freecodecamp.org/news/testing-in-rxswift-2b6eeaeaf432/)<br/>
 [FlawlessApp Blog. ShihTing Huang - The complete guide to Network Unit Testing in Swift](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)<br/>
 [FlawlessApp Blog. ShihTing Huang - Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)<br/>
 [FlawlessApp Blog. ShihTing Huang - Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18)<br/>
@@ -136,6 +142,12 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 ### N <br/>
 [NSHipster - Unit Testing](http://nshipster.com/unit-testing/)<br/>
 
+### M <br/>
+[Marin Todorov - Testing your Rx Swift code, part 1](http://rx-marin.com/post/rxswift-rxtests-unit-tests/)<br/>
+[Marin Todorov - Testing your Rx Swift code, part 2](http://rx-marin.com/post/rxswift-rxtests-unit-tests-part-2/)<br/>
+[Marin Todorov - Testing with Rx Blocking, part 1](http://rx-marin.com/post/rxblocking-part1/)<br/>
+[Marin Todorov - Testing with Rx Blocking, part 2](http://rx-marin.com/post/rxblocking-part2/)<br/>
+
 ### O <br/>
 [objc.io - Issue #15: Testing](https://www.objc.io/issues/15-testing/)<br/>
 [Oleg Dreyman - Taking Dependency Injection one step further with Swift](https://medium.com/anysuggestion/taking-dependency-injection-one-step-further-with-swift-cde1b3d41d49)<br/>
@@ -145,6 +157,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 
 ### R <br/>
 [raizlabs.com - XCTest and Optional Unwrapping](https://www.raizlabs.com/dev/2017/02/xctest-optional-unwrapping/)<br/>
+[raywanderlich.com - Testing Your RxSwift Code](https://www.raywenderlich.com/7408-testing-your-rxswift-code)<br/>
 [raywanderlich.com - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)<br/>
 [raywanderlich.com Dominik Hauser - Swift Unit Testing: Mocking Objects](https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)<br/>
 [raywanderlich.com Audrey Tam - iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/150073/ios-unit-testing-and-ui-testing-tutorial)<br/>
@@ -155,6 +168,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [robkerr.com - Flexible and Easy Unit Testing of CoreData Persistence Code](https://robkerr.com/flexible-and-easy-unit-testing-of-coredata-persistence-code-2b2cf456cfae)<br/>
 
 ### S <br/>
+[saadeloulladi.com - MVVM/RxSwift Unit Testing](https://saadeloulladi.com/ios-swift-mvvm-rxswift-unit-testing/)<br/>
 [Swift 2 Go - How to test with fake data on ios](https://medium.com/swift2go/how-to-test-with-fake-data-on-ios-66dc87bf093e)<br/>
 [Swift by Sundell - Unit Testing](https://www.swiftbysundell.com/basics/unit-testing)<br/>
 [Swift by Sundell - Mock-free Unit Tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)<br/>
@@ -171,7 +185,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [Shashikant Jagtap - Network Stubbing options for XCTest and XCUITest in Swift](https://medium.com/xcblog/network-stubbing-options-for-xctest-and-xcuitest-in-swift-2e0dcce9a37d)<br/>
 
 ### V <br/>
-[vincit.com - Unit testing RxSwift application](https://medium.com/vincit/unit-testing-rxswift-application-f0c6ea460429)<br/>
+[vincit.com - Unit testing Rx Swift application](https://medium.com/vincit/unit-testing-rxswift-application-f0c6ea460429)<br/>
 
 ### Y <br/>
 [Yet Another Swift Blog by Vadim Bulavin - Real World Unit Testing in Swift](https://www.vadimbulavin.com/real-world-unit-testing-in-swift/)<br/>
@@ -205,6 +219,7 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [Swift Unwrapped - Testing Swift](https://spec.fm/podcasts/swift-unwrapped/70319)<br/>
 
 ## 📺 Video Tutorials: <br/>
+[Alexito's World - Testing an operator with TestScheduler, Rx Swift](https://www.youtube.com/watch?v=HKigVK1eqwE)<br/>
 [RayWanderlich.com RWDevCon 2016: Xcode UI Testing - Live Tutorial Session](https://www.youtube.com/watch?v=NrHSZgbQ7_k) <br/>
 [Essential Developer - Building a Swift Quiz App with TDD and Modular Design](https://www.youtube.com/playlist?list=PLyjgjmI1UzlSUlaQD0RvLwwW-LSlJn-F6) <br/>
 [Swift Programming Tutorials - Testing Asynchronous Code in Swift 3](https://www.youtube.com/watch?v=xa93cjIeuY0) <br/>
