@@ -168,7 +168,6 @@ A curated collection of awesome blog articles, books, talks, podcasts, tools/fra
 [robkerr.com - Flexible and Easy Unit Testing of CoreData Persistence Code](https://robkerr.com/flexible-and-easy-unit-testing-of-coredata-persistence-code-2b2cf456cfae)<br/>
 
 ### S <br/>
-[saadeloulladi.com - MVVM/RxSwift Unit Testing](https://saadeloulladi.com/ios-swift-mvvm-rxswift-unit-testing/)<br/>
 [Swift 2 Go - How to test with fake data on ios](https://medium.com/swift2go/how-to-test-with-fake-data-on-ios-66dc87bf093e)<br/>
 [Swift by Sundell - Unit Testing](https://www.swiftbysundell.com/basics/unit-testing)<br/>
 [Swift by Sundell - Mock-free Unit Tests in Swift](https://www.swiftbysundell.com/posts/mock-free-unit-tests-in-swift)<br/>
